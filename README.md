@@ -9,7 +9,7 @@ This project analyzes the data of a test cricket file.
 ## Variables
 Player, Span, Mat, Inns, NO, Runs, HS, Ave, 100, 50, 0.
 
-## Tasks:
+## Tasks
 1. Import the excel file in your jupyter notebook.<br>
 2. Display the first 10 rows of the dataframe.<br>
 3. Create a markdown cell and explain the meaning of each column.<br>
