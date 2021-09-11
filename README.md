@@ -1,22 +1,23 @@
 # Test cricket analysis
-Submitted by:
-Nabila Tajrin Bristy
+#### Submitted by:
+Nabila Tajrin Bristy<br>
 Dhaka, Bangladesh
 
-Objective
+## Objective
 This project analyzes the data of a test cricket file.
 
-Variables
+## Variables
 Player, Span, Mat, Inns, NO, Runs, HS, Ave, 100, 50, 0.
 
-Tasks:
-Import the excel file in your jupyter notebook.
-Display the first 10 rows of the dataframe.
-Create a markdown cell and explain the meaning of each column.
-find the number of rows and columns in the dataframe.
-find the data statistics and check for the data types.
-Are there any missing values present in the dataset?
-Rename the column names appropriately.
-Remove a column from the dataframe.
-References:
+## Tasks:
+1. Import the excel file in your jupyter notebook.<br>
+2. Display the first 10 rows of the dataframe.<br>
+3. Create a markdown cell and explain the meaning of each column.<br>
+4. Find the number of rows and columns in the dataframe.<br>
+5. Find the data statistics and check for the data types.<br>
+6. Are there any missing values present in the dataset?<br>
+7. Rename the column names appropriately.<br>
+8. Remove a column from the dataframe.<br>
+
+#### References:
 Dataset source: https://stats.espncricinfo.com/ci/content/records/93276.html
