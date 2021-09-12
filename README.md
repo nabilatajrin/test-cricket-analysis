@@ -32,5 +32,5 @@ Player, Span, Mat, Inns, NO, Runs, HS, Ave, 100, 50, 0.
 17. Which player had the lowest strike rate?<br>
 18. Which player had the lowest bowling average?<br>
 
-#### References:
+## References:
 Dataset source: https://stats.espncricinfo.com/ci/content/records/93276.html
